@@ -78,6 +78,42 @@
           "size_x": 1397,
           "size_y": 757
         }
+      },
+      {
+        "name": "cara-de-pelusa.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 1939,
+          "pos_y": 767,
+          "size_x": 502,
+          "size_y": 363
+        }
+      },
+      {
+        "name": "cara-de-pelusa.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 1,
+          "maximized": true,
+          "pos_x": 3728,
+          "pos_y": 609,
+          "size_x": 500,
+          "size_y": 363
+        }
+      },
+      {
+        "name": "cara-de-pelusa.kicad_pro",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 1880,
+          "pos_y": 547,
+          "size_x": 1048,
+          "size_y": 979
+        }
       }
     ]
   }
