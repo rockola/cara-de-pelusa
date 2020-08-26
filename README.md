@@ -1,10 +1,9 @@
-# pimentero
+# cara-de-pelusa
 
-Echoplex preamp SMD PCB
+NPN Fuzz Face
 
 * v0.1: initial import, unverified
-* v0.2: added optional volume pot
 
-![Front](https://raw.githubusercontent.com/rockola/pimentero/master/images/pimentero-v0.2-front.png)
-![Back](https://raw.githubusercontent.com/rockola/pimentero/master/images/pimentero-v0.2-back.png)
-![Schematic](https://raw.githubusercontent.com/rockola/pimentero/master/images/pimentero-schematic.png)
+![Front](https://raw.githubusercontent.com/rockola/cara-de-pelusa/master/images/cara-de-pelusa-v0.1-front.png)
+![Back](https://raw.githubusercontent.com/rockola/cara-de-pelusa/master/images/cara-de-pelusa-v0.1-back.png)
+![Schematic](https://raw.githubusercontent.com/rockola/cara-de-pelusa/master/images/cara-de-pelusa-schematic.png)

@@ -59,13 +59,26 @@
       36,
       37
     ],
-    "visible_layers": "7ffff_ffffffff"
+    "visible_layers": "3ffff_80000001"
   },
   "meta": {
     "filename": "cara-de-pelusa.kicad_prl",
     "version": 2
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "../../../../../home/ola/",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 1296,
+          "pos_y": 657,
+          "size_x": 1397,
+          "size_y": 757
+        }
+      }
+    ]
   }
 }
