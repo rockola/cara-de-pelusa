@@ -1,7 +1,8 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 37,
     "active_layer_preset": "",
+    "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -11,6 +12,7 @@
       "vias": 1.0,
       "zones": 1.0
     },
+    "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": true,
       "footprints": true,
@@ -47,74 +49,26 @@
       20,
       21,
       22,
-      23,
       24,
+      25,
       26,
       27,
-      28,
-      29,
-      30,
-      31,
       32,
+      33,
+      34,
+      35,
       36,
-      37
+      37,
+      38
     ],
-    "visible_layers": "3ffff_80000001"
+    "visible_layers": "003ffff_80000001",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "cara-de-pelusa.kicad_prl",
-    "version": 2
+    "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "../../../../../home/ola/",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 1296,
-          "pos_y": 657,
-          "size_x": 1397,
-          "size_y": 757
-        }
-      },
-      {
-        "name": "cara-de-pelusa.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 1939,
-          "pos_y": 767,
-          "size_x": 502,
-          "size_y": 363
-        }
-      },
-      {
-        "name": "cara-de-pelusa.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": 3728,
-          "pos_y": 609,
-          "size_x": 500,
-          "size_y": 363
-        }
-      },
-      {
-        "name": "cara-de-pelusa.kicad_pro",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 1880,
-          "pos_y": 547,
-          "size_x": 1048,
-          "size_y": 979
-        }
-      }
-    ]
+    "files": []
   }
 }
